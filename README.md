@@ -1,16 +1,60 @@
-## Hi there 👋
+# `>_ monarchcode009`
 
-<!--
-**monarchcode009/monarchcode009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ⚠️ **NOTICE:** My previous GitHub account **`monarch-009`** was locked.
+> This is my **new active GitHub profile**: **`monarchcode009`**.
 
-Here are some ideas to get you started:
+```bash
+┌──(aditya㉿monarchcode009)-[~]
+└─$ whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aditya Raj
+
+┌──(aditya㉿monarchcode009)-[~]
+└─$ cat about.txt
+
+Name       : Aditya Raj
+Location   : Bihar, India
+Education  : Final Year CS @ Lovely Professional University
+
+Interests  :
+  ├── Full Stack Development
+  ├── Data Science
+  └── Machine Learning
+
+Status     : Building digital experiences & exploring AI
+```
+
+### `>_ current_focus`
+
+```text
+[+] Building digital experiences
+[+] Exploring Artificial Intelligence
+[+] Learning & experimenting with new technologies
+[+] Turning ideas into real-world projects
+```
+
+### `>_ interests`
+
+```text
+Full Stack Development  ████████████████████
+Data Science            ██████████████████░░
+Machine Learning        ████████████████░░░░
+Artificial Intelligence █████████████████░░░
+```
+
+### `>_ connect`
+
+```bash
+┌──(aditya㉿monarchcode009)-[~]
+└─$ echo "Let's build something."
+
+Let's build something.
+```
+
+---
+
+```text
+╔══════════════════════════════════════════════╗
+║  "Code. Learn. Build. Repeat."              ║
+╚══════════════════════════════════════════════╝
+```
